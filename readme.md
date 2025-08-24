@@ -1,4 +1,4 @@
-Here's the complete automation setup:
+
 
 ## 1. Hourly Automation Script for PC A## 2. Permanent Drive Mapping for PC B## Setup Instructions:
 
